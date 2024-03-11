@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "米咪影视VIP",
+      "name": "米咪影视",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -33,7 +33,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "🇹┃玩偶4K┃影视",
+      "name": "米咪影视VIP1",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
