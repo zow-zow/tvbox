@@ -1,0 +1,9 @@
+★订阅链接：
+
+clan://localhost/TVBoxOSC/tvbox/api.json
+
+
+
+★订阅链接（去广告）：
+
+clan://localhost/TVBoxOSC/tvbox/api2.json
