@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "小Z影视分享交流QQ群:487057849",
+      "name": "本接口由热心网友米咪友情分享",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
 {
       "key": "88js",
-      "name": "🇹🏀小Z看球⚽",
+      "name": "🇹🏀米咪看球⚽",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -37,7 +37,7 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "🇹🏀小Z看球2⚽",
+      "name": "🇹🏀米咪看球2⚽",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jrk.js",
@@ -55,7 +55,7 @@
     {"key":"drpy_js_310直播","name":"💥310直播(体育)","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/310直播.js"},
     {
       "key": "csp_KungFu404",
-      "name": "🇹┃小Zvip1┃",
+      "name": "🇹┃米咪vip1┃",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "🇹┃小Zvip2┃",
+      "name": "🇹┃米咪vip2┃",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🇹┃小Zvip3┃",
+      "name": "🇹┃米咪vip3┃",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -85,14 +85,14 @@
     },
     {
       "key": "drpy_js_秋霞影院",
-      "name": "🇹┃小Zvip4┃",
+      "name": "🇹┃米咪vip4┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/秋霞.js"
     },
     {
       "key": "亮亮",
-      "name": "🇹┃小Zvip5┃",
+      "name": "🇹┃米咪vip5┃",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -103,7 +103,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🇹┃小Zvip6┃",
+      "name": "🇹┃米咪vip6┃",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -113,49 +113,49 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "🇹┃小Zvip7┃",
+      "name": "🇹┃米咪vip7┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "🇹┃小Zvip8┃",
+      "name": "🇹┃米咪vip8┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "🇹┃小Zvip9┃",
+      "name": "🇹┃米咪vip9┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "🇹┃小Zvip10┃",
+      "name": "🇹┃米咪vip10┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "🇹┃小Zvip11┃",
+      "name": "🇹┃米咪vip11┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "🇹┃小Zvip12┃",
+      "name": "🇹┃米咪vip12┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/菜狗.js"
     },
     {
       "key": "csp_JianPian",
-      "name": "🇹┃小Zvip13┃",
+      "name": "🇹┃米咪vip13┃",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -167,7 +167,7 @@
     },
     {
       "key": "黑狐",
-      "name": "🇹┃小Zvip14┃",
+      "name": "🇹┃米咪vip14┃",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -210,7 +210,7 @@
     },
     {
       "key": "MFKYS",
-      "name": "🇹┃小Zvip15┃",
+      "name": "🇹┃米咪vip15┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -245,7 +245,7 @@
     },
     {
       "key": "Panta",
-      "name": "🇹┃小Zvip16┃",
+      "name": "🇹┃米咪vip16┃",
       "type": 3,
       "api": "csp_Panta",
       "jar": "http://www.wya6.cn/tz/wypg.php",
@@ -258,7 +258,7 @@
     },
     {
       "key": "小胡",
-      "name": "🇹┃小Zvip17┃",
+      "name": "🇹┃米咪vip17┃",
       "searchable": 1,
       "quickSearch": 1,
       "type": 1,
@@ -277,7 +277,7 @@
     },
     {
       "key": "49zy",
-      "name": "🇹┃小Zvip19┃",
+      "name": "🇹┃米咪vip19┃",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -322,7 +322,7 @@
     },
     {
       "key": "车妹",
-      "name": "🇹┃小Zvip20┃",
+      "name": "🇹┃米咪vip20┃",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -332,7 +332,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "🇹┃小Zvip21┃",
+      "name": "🇹┃米咪vip21┃",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -343,21 +343,21 @@
     },
     {
       "key": "drpy_js_哔哩影视",
-      "name": "🇹┃小Zvip22┃",
+      "name": "🇹┃米咪vip22┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
     },
     {
       "key": "drpy_js_两个BT",
-      "name": "🇹┃小Zvip23┃",
+      "name": "🇹┃米咪vip23┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/两个BT.js"
     },
     {
       "key": "暴風",
-      "name": "🇹┃小Zvip24┃",
+      "name": "🇹┃米咪vip24┃",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -365,14 +365,14 @@
     },
     {
       "key": "drpy_js_爱看机器人",
-      "name": "🇹┃小Zvip25┃",
+      "name": "🇹┃米咪vip25┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ikanbot2.js"
     },
     {
       "key": "csp_Nmys",
-      "name": "🇹┃小Zvip26┃",
+      "name": "🇹┃米咪vip26┃",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -382,7 +382,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🇹┃小Zvip27┃",
+      "name": "🇹┃米咪vip27┃",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "花猫影视",
-      "name": "🇹┃小Zvip28┃",
+      "name": "🇹┃米咪vip28┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "77",
-      "name": "🇹┃小Zvip29┃",
+      "name": "🇹┃米咪vip29┃",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -410,7 +410,7 @@
     },
     {
       "key": "橘子",
-      "name": "🇹┃小Zvip30┃",
+      "name": "🇹┃米咪vip30┃",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -420,14 +420,14 @@
     },
     {
       "key": "畅梦",
-      "name": "🇹┃小Zvip31┃",
+      "name": "🇹┃米咪vip31┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/changmeng.js"
     },
     {
       "key": "Auete",
-      "name": "🇹┃小Zvip32┃",
+      "name": "🇹┃米咪vip32┃",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -437,7 +437,7 @@
     },
     {
       "key": "玉米",
-      "name": "🇹┃小Zvip33┃",
+      "name": "🇹┃米咪vip33┃",
       "type": 0,
       "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
       "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
@@ -447,7 +447,7 @@
     },
     {
       "key": "看了么",
-      "name": "🇹┃小Zvip34┃",
+      "name": "🇹┃米咪vip34┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -457,7 +457,7 @@
     },
     {
       "key": "笑笑影视",
-      "name": "🇹┃小Zvip35┃",
+      "name": "🇹┃米咪vip35┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -467,14 +467,14 @@
     },
     {
       "key": "drpy_js_四个圈儿",
-      "name": "🇹┃小Zvip36┃",
+      "name": "🇹┃米咪vip36┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/四个圈影视.js"
     },
     {
       "key": "zxzj",
-      "name": "🇹┃小Zvip37┃",
+      "name": "🇹┃米咪vip37┃",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -484,7 +484,7 @@
     },
     {
       "key": "lurenjia",
-      "name": "🇹┃小Zvip38┃",
+      "name": "🇹┃米咪vip38┃",
       "type": 1,
       "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -494,7 +494,7 @@
     },
     {
       "key": "影探VIP",
-      "name": "🇹┃小Zvip39┃",
+      "name": "🇹┃米咪vip39┃",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -504,7 +504,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🇹┃小Zvip40┃",
+      "name": "🇹┃米咪vip40┃",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -513,21 +513,21 @@
     },
     {
       "key": "drpy_js_米爱影视",
-      "name": "🇹┃小Zvip41┃",
+      "name": "🇹┃米咪vip41┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/米爱影视.js"
     },
     {
       "key": "drpy_js_胖虎影视",
-      "name": "🇹┃小Zvip42┃",
+      "name": "🇹┃米咪vip42┃",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/胖虎.js"
     },
     {
       "key": "zxzj",
-      "name": "🇹┃小Zvip43┃",
+      "name": "🇹┃米咪vip43┃",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -537,7 +537,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🇹┃小Zvip44┃",
+      "name": "🇹┃米咪vip44┃",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "迪迪",
-      "name": "🇹┃小Zvip45┃",
+      "name": "🇹┃米咪vip45┃",
       "api": "csp_AppYsV2",
       "type": 3,
       "playerType": 2,
@@ -558,7 +558,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "🇹┃小Zvip46┃",
+      "name": "🇹┃米咪vip46┃",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
@@ -601,7 +601,7 @@
     },
     {
       "key": "Lib",
-      "name": "🇹┃小Zvip47┃",
+      "name": "🇹┃米咪vip47┃",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -611,7 +611,7 @@
     },
     {
       "key": "Cokemv",
-      "name": "🇹┃小Zvip48┃",
+      "name": "🇹┃米咪vip48┃",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": 2,
@@ -621,7 +621,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "🇹┃小Zvip49┃",
+      "name": "🇹┃米咪vip49┃",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
