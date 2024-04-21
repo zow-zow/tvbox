@@ -21,15 +21,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
-       {
-            "key": "csp_xBPQ_dszb",
-            "name": "电视直播",
+     {
+            "key": "csp_XYQ_lu1",
+            "name": "️柠檬电视┃直播",
             "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://饭太硬.ga/x/xbpq/电视直播.json"
+            "ext": "https://agit.ai/66666/yueg/raw/branch/master/柠檬TV.json"
         },
 {
       "key": "88js",
