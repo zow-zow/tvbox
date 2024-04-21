@@ -22,15 +22,14 @@
       "filterable": 0
     },
        {
-            "key": "csp_XYQ_lu1",
-            "name": "️电视直播",
+            "key": "csp_xBPQ_dszb",
+            "name": "电视直播",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
+            "api": "csp_xBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://agit.ai/kuku/kot/raw/branch/master/zhibo.json",
-            "jar": "https://agit.ai/kuku/kot/raw/branch/master/jar/duotv.jar;md5;6BF2FCBE50B975602B069C8E54AA938F"
+            "ext": "http://饭太硬.ga/x/xbpq/电视直播.json"
         },
 {
       "key": "88js",
