@@ -1,0 +1,15 @@
+临时,#genre#
+TVB翡翠台[1280x720],https://s2.pub/cctv-4
+J2[1920x1080],https://s2.pub/cctv-5
+RK31[1920x1080],https://s2.pub/cctv-14
+RK32[1920x1080],https://s2.pub/cctv-15
+凤凰卫视[1280x720],https://s2.pub/cctv-1
+翡翠香港频道[1280x720],https://s2.pub/cctv-4
+明珠香港频道[1280x720],https://s2.pub/cctv-6
+VIUtv1香港台[1920x1080],https://s2.pub/cctv-7
+VIUtv2香港频[1920x1080],https://s2.pub/cctv-8
+HOY78香港台[1920x1080],https://s2.pub/cctv-10
+中天新闻[1920x1080],https://s2.pub/cctv-17
+东森新闻[1920x1080],https://s2.pub/cctv-18
+2,http://101.200.122.188:80/epg/ysp.php?id=cctv5
+3,https://cloud.lxweb.cn/f/8bQ0I1/VID_20240122_233158.mp4
