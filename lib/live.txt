@@ -13,3 +13,9 @@ HOY78香港台[1920x1080],https://s2.pub/cctv-10
 东森新闻[1920x1080],https://s2.pub/cctv-18
 2,http://101.200.122.188:80/epg/ysp.php?id=cctv5
 3,https://cloud.lxweb.cn/f/8bQ0I1/VID_20240122_233158.mp4
+央视,#genre#
+CCTV1-综合,http://ynxsj.7766.org:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2-财经,http://ynxsj.7766.org:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3-综艺,http://ynxsj.7766.org:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4-国际,http://ynxsj.7766.org:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5-体育,http://ynxsj.7766.org:9901/tsfile/live/0005_1.m3u8?key=txiptv
